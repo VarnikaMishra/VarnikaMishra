@@ -27,12 +27,14 @@ varnika = {
     "role"        : "Research Lead @ Advanced Academic Centre (AAC), GRIET",
     "focus"       : ["Multimodal AI", "Agentic Orchestration", "Behavioral Intelligence"],
     "languages"   : ["Python 🐍", "Java ☕", "C++", "C", "SQL", "HTML5/CSS3"],
+    "Core CS"     : ["DSA", "Operating Systems", "DBMS", "Object Oriented Programming"],
     "frameworks"  : ["React", "FastAPI", "Streamlit", "YOLOv8", "OpenCV", "Scikit-learn"],
     "ai_stack"    : ["Gemini 3 (Vision+Text)", "RAG", "NLP", "CNNs", "Random Forest"],
     "iot"         : ["Arduino", "Sensor Fusion (IR, Ultrasonic, Voltage)"],
     "achievements": [
         "🥉 3rd Place — GDG GLEC Hackathon (out of 522 teams)",
         "🏅 National Finalist — VIVITSU 2026",
+        "🏅 15th place in Queue Cure Hackathon - by Wooble (out of 342 teams)"
         "🏅 Top 18 Finalist — Opulence Ideathon (GRIET)",
         "🏅 Top 14 Finalist — Smart Campus Hackathon (200 teams)",
         "🏛️ Presented at Rashtrapati Nilayam on National Science Day 2026",
@@ -50,11 +52,13 @@ varnika = {
 | 🏅 Achievement | 🎯 Event | 📋 Details |
 |---|---|---|
 | 🥉 **3rd Place** | GDG GLEC Hackathon | Out of 522 teams — SmartLogicAI |
+| 🌟 **15th Place** | Queue Cure (Wooble) | Clinic Queue — Real-time clinic queue matrix |
 | 🌟 **National Finalist** | VIVITSU 2026 | Piggy AI — Multi-lingual Voice Assistant |
 | 🚀 **Top 18 Finalist** | Opulence Ideathon @ GRIET | Zenith AI — Multimodal Behavioral Intelligence |
 | 🎓 **Top 14 Finalist** | Smart Campus Hackathon (Vasavi) | EduNexus AI — Top 14 of 200 teams |
 | 🏛️ **Institutional Rep** | Rashtrapati Nilayam | Presented EV Intelligence to national dignitaries |
 | 🔬 **Industry Validated** | T-Works & IIC Regional Meet 2025 | CodeCanvas — Structural Logic Innovation |
+| ⚡ **Hackathon Submission** | ET-AI Hackathon | EV-Nexus — Industrial & Fleet Intelligence Platform |
 | 🌐 **Participant** | Google Cloud & Gemini Live Agent Challenge | Master Agent — Agentic Multimodal AI |
 | 🌐 **Participant** | Gemini International Hackathon | Bharat Guardian AI |
 | 🌐 **Participant** | Google Lakecity Hackathon | Vantage Juris AI |
@@ -62,6 +66,16 @@ varnika = {
 ---
 
 ## 🚀 Featured Projects
+
+### 🚗 EV-Nexus — Industrial & Fleet Intelligence Platform
+> *ET-AI Hackathon 2026 Submission*
+[![Gemini 3 Flash](https://img.shields.io/badge/Gemini_3_Flash-8E44AD?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
+
+**Dual-mode, multi-agent AI system** built on Gemini 3 Flash and EV Battery Project (formulas) that unifies downstream fleet operations (telemetry, battery health SoH forecasts, OSRM routing) with upstream manufacturing traceability (QMS drift detection and material sourcing intelligence).
+
+---
 
 ### 🧠 Zenith AI — Multimodal Behavioral Intelligence
 > *Finalist @ Opulence Ideathon (GRIET)*
@@ -85,6 +99,17 @@ Trained a custom **YOLOv8 model** for structural grammar detection, reducing cod
 
 ---
 
+### ⚖️ VERITAS — Enterprise Merit Auditor
+> *Upcoming Presentation*
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Gemini](https://img.shields.io/badge/Gemini-8E44AD?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+
+Streamlit-based web application designed to automate and de-bias initial resume screening[cite: 4]. Features a **Single API Call Strategy** that ingests bulk PDF resumes via an uploaded ZIP file, aggregates text into a single data block, and uses Google Gemini to rank candidates solely by project complexity and technical skill depth while actively masking identifying demographic biases.
+
+---
+
 ### 🎓 EduNexus AI — The Campus OS
 > *Finalist @ Smart Campus Hackathon (Vasavi College) — Top 14 of 200*
 
@@ -92,7 +117,28 @@ Trained a custom **YOLOv8 model** for structural grammar detection, reducing cod
 [![EasyOCR](https://img.shields.io/badge/EasyOCR-FF4136?style=flat-square&logo=opencv&logoColor=white)](https://github.com/JaidedAI/EasyOCR)
 [![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)](https://github.com/VarnikaMishra)
 
-Multimodal Vision OCR to digitize handwritten marksheets into Excel. Includes **Syntax Arena** — a real-time multiplayer coding lobby with AI-generated logic bosses in a "Stumble Guys" style competition.
+Multimodal Vision OCR to **digitize handwritten marksheets** into Excel. Includes **Syntax Arena** — a real-time multiplayer coding lobby with AI-generated logic bosses in a "Stumble Guys" style competition.
+
+---
+
+### 🏥 Clinic Queue — Autonomous Real-Time Clinic Queue Matrix
+> *15th Place @ Queue Cure Hackathon (by Wooble)*
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]([https://python.org](https://python.org)) 
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io) 
+[![Atomic JSON](https://img.shields.io/badge/Atomic_JSON-000000?style=flat-square&logo=json&logoColor=white)](https://github.com/VarnikaMishra)
+
+**Instant-sync dual-display orchestration dashboard** with thread-isolated fragment polling (1-second heartbeat) and a cold-start predictive timeline correction model to automate patient wait-time estimation.
+
+---
+
+### 🚗 SmartLogicAI — Real-Time Ride Intelligence
+> *🥉 3rd Place @ GDG GLEC Hackathon — Out of 522 Teams*
+
+[![OSRM](https://img.shields.io/badge/OSRM_Routing-7D9EC0?style=flat-square&logo=openstreetmap&logoColor=white)](https://project-osrm.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
+
+"Battle Mode" for real-time fare **comparison across ride-sharing platforms and e-commerce platforms** using OSRM & Nominatim for precise road-distance calculation. Have used API keys like Beautiful soup to get data from e-commerce websites. 3-layer scalable stack with 3D CSS frontend.
 
 ---
 
@@ -104,16 +150,6 @@ Multimodal Vision OCR to digitize handwritten marksheets into Excel. Includes **
 [![RandomForest](https://img.shields.io/badge/Random_Forest_ML-1D9E75?style=flat-square&logo=leaflet&logoColor=white)](https://github.com/VarnikaMishra)
 
 **94% accuracy** Random Forest Regression model to predict EV range and battery health. Custom dataset + voice-assisted AI chatbot for real-time vehicle diagnostics. Presented to national dignitaries.
-
----
-
-### 🚗 SmartLogicAI — Real-Time Ride Intelligence
-> *🥉 3rd Place @ GDG GLEC Hackathon — Out of 522 Teams*
-
-[![OSRM](https://img.shields.io/badge/OSRM_Routing-7D9EC0?style=flat-square&logo=openstreetmap&logoColor=white)](https://project-osrm.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
-
-"Battle Mode" for real-time fare comparison across ride-sharing platforms using OSRM & Nominatim for precise road-distance calculation. 3-layer scalable stack with 3D CSS frontend.
 
 ---
 
@@ -143,6 +179,19 @@ High-speed "Swiss Army Knife" for UI navigation, creative storytelling, and code
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
 
 3-stage hardware-software handshake (IR Sensor → Python → Arduino) for zero-latency automation. OpenCV pipeline for real-time occupancy detection and gesture-based emergency alerts.
+
+---
+
+### Other Projects
+
+**⚖️ Vantage Juris AI** <br>
+Legal-Tech Risk Scoring & Strategy AgentSpecialized Compliance & Case Analysis ModuleSpecialized legal-tech risk analysis engine built to parse complex supreme court precedents and statutory frameworks, delivering structured case strategies and legal risk scoring.
+<br> <br>
+**💳 Piggy AI** <br>
+Multi-Lingual Financial Advisory AssistantNational Finalist @ VIVITSU 2026  Voice-assisted, multi-lingual financial assistant utilizing intent-recognition natural language processing to deliver personalized budgeting, expense tracking, and real-time fiscal advisory in regional contexts.
+<br> <br>
+**⚔️ Syntax Arena** <br>
+Real-Time Multiplayer Coding LobbyCore Module of EduNexus AI  High-concurrency multiplayer coding battle platform featuring real-time synchronization, live leaderboards, and dynamically generated AI logic bosses designed for competitive peer learning.
 
 ---
 
